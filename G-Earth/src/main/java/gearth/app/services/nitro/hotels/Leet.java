@@ -97,8 +97,8 @@ public class Leet extends NitroHotel {
 
     public static class LeetNLPacketModifier implements NitroPacketModifier {
 
-        private static final short OUTGOING_FIRST = 4000;
-        private static final short INCOMING_FIRST = 1347;
+        private static final short OUTGOING_FIRST = 22528;
+        private static final short INCOMING_FIRST = 9258;
 
         private final DirectionStateHolder client;
         private final DirectionStateHolder server;
